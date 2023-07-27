@@ -3,10 +3,10 @@
 
 
 [Start Page]
-![Start Image](/Shape Challenge/static/homepage.png)
+![Start Image](homepage.png)
 
 [Gameover Page]
 ![Gameover Image](gameover.png)
 
 [ING]
-![ING Image](./static/proc.png)
+![ING Image](proc.png)
