@@ -6,7 +6,7 @@
 ![Start Image](/Shape Challenge/static/homepage.png)
 
 [Gameover Page]
-![Gameover Image](./static/gameover.png)
+![Gameover Image](gameover.png)
 
 [ING]
 ![ING Image](./static/proc.png)
