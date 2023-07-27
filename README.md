@@ -3,7 +3,7 @@
 
 
 [Start Page]
-![Start Image](./static/homepage.png)
+![Start Image](static/homepage.png)
 
 [Gameover Page]
 ![Gameover Image](./static/gameover.png)
